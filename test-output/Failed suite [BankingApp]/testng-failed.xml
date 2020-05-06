@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [BankingApp]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="BankingApp Test(failed)(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.inet_Banking.testcases.TC_LoginTestDDT_02">
+        <methods>
+          <include name="setUp"/>
+          <include name="logInDataProvider" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- com.inet_Banking.testcases.TC_LoginTestDDT_02 -->
+    </classes>
+  </test> <!-- BankingApp Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [BankingApp]] -->

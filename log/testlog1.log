@@ -1,0 +1,83 @@
+2020-04-25 01:53:35,982 [main] INFO eBanking - URL is opened
+2020-04-25 01:53:36,252 [main] INFO eBanking - user name is entered
+2020-04-25 01:53:36,402 [main] INFO eBanking - password is entered
+2020-04-25 01:53:37,970 [main] INFO eBanking - Login btn is clicked
+2020-04-25 01:53:37,985 [main] INFO eBanking - Login test pass
+2020-04-25 11:12:03,635 [main] INFO eBanking - URL is opened
+2020-04-25 11:12:04,067 [main] INFO eBanking - user name is entered
+2020-04-25 11:12:04,212 [main] INFO eBanking - password is entered
+2020-04-25 11:12:06,013 [main] INFO eBanking - Login btn is clicked
+2020-04-25 11:12:06,034 [main] INFO eBanking - Login test pass
+2020-04-25 11:16:52,216 [main] INFO eBanking - URL is opened
+2020-04-25 11:16:52,764 [main] INFO eBanking - user name is entered
+2020-04-25 11:16:52,911 [main] INFO eBanking - password is entered
+2020-04-25 11:16:54,619 [main] INFO eBanking - Login btn is clicked
+2020-04-25 11:16:54,642 [main] INFO eBanking - Login test pass
+2020-04-25 20:11:15,319 [main] INFO eBanking - URL is opened
+2020-04-25 20:14:34,263 [main] INFO eBanking - URL is opened
+2020-04-25 20:21:47,543 [main] INFO eBanking - URL is opened
+2020-04-25 21:46:43,170 [main] INFO eBanking - URL is opened
+2020-04-25 21:46:43,454 [main] INFO eBanking - user name is entered
+2020-04-25 21:46:43,612 [main] INFO eBanking - password is entered
+2020-04-25 21:46:45,481 [main] INFO eBanking - Login btn is clicked
+2020-04-25 21:46:45,502 [main] INFO eBanking - Login test pass
+2020-04-27 11:13:30,077 [main] INFO eBanking - URL is opened
+2020-04-27 11:13:30,580 [main] INFO eBanking - user name is entered
+2020-04-27 11:13:31,814 [main] INFO eBanking - password is entered
+2020-04-27 11:13:35,246 [main] INFO eBanking - Login btn is clicked
+2020-04-27 11:13:35,282 [main] INFO eBanking - Login test pass
+2020-04-27 18:06:31,137 [main] INFO eBanking - URL is opened
+2020-04-27 18:06:31,947 [main] INFO eBanking - user name is entered
+2020-04-27 18:06:32,253 [main] INFO eBanking - password is entered
+2020-04-27 18:06:35,143 [main] INFO eBanking - Login btn is clicked
+2020-04-27 18:06:35,205 [main] INFO eBanking - Login test pass
+2020-04-27 18:19:04,499 [main] INFO eBanking - URL is opened
+2020-04-27 18:19:04,982 [main] INFO eBanking - user name is entered
+2020-04-27 18:19:05,315 [main] INFO eBanking - password is entered
+2020-04-27 18:19:07,728 [main] INFO eBanking - Login btn is clicked
+2020-04-27 18:19:07,790 [main] INFO eBanking - Login test pass
+2020-04-27 18:25:28,663 [main] INFO navigated to URL - URL is opened
+2020-04-27 18:25:29,021 [main] INFO navigated to URL - user name is entered
+2020-04-27 18:25:29,256 [main] INFO navigated to URL - password is entered
+2020-04-27 18:25:31,998 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 18:25:32,068 [main] INFO navigated to URL - Login test pass
+2020-04-27 19:11:23,759 [main] INFO navigated to URL - URL is opened
+2020-04-27 19:11:24,174 [main] INFO navigated to URL - user name is entered
+2020-04-27 19:11:24,416 [main] INFO navigated to URL - password is entered
+2020-04-27 19:11:26,586 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 19:11:26,609 [main] INFO navigated to URL - Login test pass
+2020-04-27 19:28:03,202 [main] INFO navigated to URL - URL is opened
+2020-04-27 19:28:03,562 [main] INFO navigated to URL - user name is entered
+2020-04-27 19:28:03,800 [main] INFO navigated to URL - password is entered
+2020-04-27 19:28:05,246 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 19:28:05,290 [main] INFO navigated to URL - Login test pass
+2020-04-27 19:34:36,844 [main] INFO navigated to URL - URL is opened
+2020-04-27 19:34:37,118 [main] INFO navigated to URL - user name is entered
+2020-04-27 19:34:37,328 [main] INFO navigated to URL - password is entered
+2020-04-27 19:34:38,818 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 19:34:38,838 [main] INFO navigated to URL - Login test pass
+2020-04-27 19:38:07,407 [main] INFO navigated to URL - URL is opened
+2020-04-27 19:38:07,918 [main] INFO navigated to URL - user name is entered
+2020-04-27 19:38:08,189 [main] INFO navigated to URL - password is entered
+2020-04-27 19:38:09,930 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 19:38:09,979 [main] INFO navigated to URL - Login test pass
+2020-04-27 19:47:18,896 [main] INFO navigated to URL - URL is opened
+2020-04-27 19:47:19,171 [main] INFO navigated to URL - user name is entered
+2020-04-27 19:47:19,372 [main] INFO navigated to URL - password is entered
+2020-04-27 19:47:21,051 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 19:47:21,080 [main] INFO navigated to URL - Login test pass
+2020-04-27 20:00:12,207 [main] INFO navigated to URL - URL is opened
+2020-04-27 20:00:12,462 [main] INFO navigated to URL - user name is entered
+2020-04-27 20:00:12,656 [main] INFO navigated to URL - password is entered
+2020-04-27 20:00:14,346 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 20:00:14,363 [main] INFO navigated to URL - Login test pass
+2020-04-27 21:14:02,461 [main] INFO navigated to URL - URL is opened
+2020-04-27 21:14:02,786 [main] INFO navigated to URL - user name is entered
+2020-04-27 21:14:02,983 [main] INFO navigated to URL - password is entered
+2020-04-27 21:14:04,877 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 21:14:04,897 [main] INFO navigated to URL - Login test pass
+2020-04-27 21:15:32,765 [main] INFO navigated to URL - URL is opened
+2020-04-27 21:15:33,118 [main] INFO navigated to URL - user name is entered
+2020-04-27 21:15:33,306 [main] INFO navigated to URL - password is entered
+2020-04-27 21:15:35,082 [main] INFO navigated to URL - Login btn is clicked
+2020-04-27 21:15:35,153 [main] INFO navigated to URL - Login test pass
